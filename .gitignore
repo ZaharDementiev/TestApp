@@ -1,0 +1,12 @@
+/node_modules
+/public/hot
+/public/storage
+public/packages
+/storage/*.key
+/storage
+/resources
+/vendor
+.env
+.env.backup
+composer.lock
+/.idea
